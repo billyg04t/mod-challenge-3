@@ -9,6 +9,7 @@ var charset2 = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var charset3 = "0123456789";
 var charset4 = "!@#$%^&*()=+";
 
+// Generator Logic: sets alerts so user may choose which charsets to use.
 function writePassword() {
   const sets = [];
   const useCharset1 = confirm("Do you want to use lowercase characters?");
@@ -39,7 +40,7 @@ function writePassword() {
     alert("Password must be between 8 and 128 characters.");
     return "";
   }
-
+// Calculates a random password based on prompt selection
   let password = "";
   for (let i = 0; i < passwordLength; i++) {
     const randomSetIndex = Math.floor(Math.random() * sets.length);
