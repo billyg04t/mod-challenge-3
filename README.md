@@ -28,8 +28,11 @@ I used SnapChat's "My AI" program to help out with semantic issues regarding pas
 
 Modules 3 and 4 of the Vanderbilt Full Stack Web Development Program were referenced in the Javascript Code.
 
+Readme Template was copied from Vanderbilt Bootcamp Prework Module 3.5.3
+[https://courses.bootcampspot.com/courses/3801]
+
 The starter code came from friendly-parakeet's git lab.
-https://github.com/coding-boot-camp/friendly-parakeet.git
+[https://github.com/coding-boot-camp/friendly-parakeet.git]
 
 ## License
 
