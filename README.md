@@ -11,6 +11,15 @@ N/A
 
 ## Usage
 
+Link to application
+[https://billyg04t.github.io/mod-challenge-3/]
+
+Screen shot:
+<img
+src ="./images/password-generator.png"
+alt ="an image of a random password generator"
+/>
+
 Click the "Generate Password" button and answer each alert. 
 
 ## Credits
